@@ -73,7 +73,7 @@ Projeto em equipe com foco em levantamento de requisitos, planejamento, desenvol
 
 <div align="center">
 
-<a href="https://SEU_USUARIO.github.io/SEU_USUARIO/">
+<a href="https://williamssdev.github.io/williamssdev/">
   <img src="./assets/code-invaders.svg" width="720" alt="Prévia animada de Code Invaders, com bugs e lasers no estilo arcade" />
 </a>
 
