@@ -67,24 +67,7 @@ Projeto em equipe com foco em levantamento de requisitos, planejamento, desenvol
 </tr>
 </table>
 
-### `04`  Code Invaders 👾
-
-> Até bugs precisam de um adversário. Fiz um pequeno arcade onde você defende seu código contra uma invasão de `BUG`, `404` e `NaN`.
-
-<div align="center">
-
-<a href="https://williamssdev.github.io/williamssdev/">
-  <img src="./assets/code-invaders.svg" width="720" alt="Prévia animada de Code Invaders, com bugs e lasers no estilo arcade" />
-</a>
-
-**[▶ JOGAR CODE INVADERS](https://SEU_USUARIO.github.io/SEU_USUARIO/)**  
-`← → / A D` mover · `espaço` atirar · `P` pausar
-
-<sub>O GIF visual acima é uma animação SVG. O jogo de verdade roda no navegador via GitHub Pages.</sub>
-
-</div>
-
-### `05`  Atualmente
+### `04`  Atualmente
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**.
 - 🛠️ Aprofundando conhecimentos em **backend, SQL e construção de APIs**.
