@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="278" viewBox="0 0 720 278" role="img" aria-label="Code Invaders: invasores BUG, 404 e NaN em movimento, jogador disparando">
+<rect width="720" height="278" rx="12" fill="#080e1c" stroke="#26354d"/>
+<g font-family="monospace"><text x="25" y="32" fill="#58e6bd" font-size="17" font-weight="bold">&gt; CODE_INVADERS.EXE</text><text x="524" y="32" font-size="13" fill="#aac0dc">SCORE: 001250</text></g>
+<path d="M22 47H698M22 231H698" stroke="#29405d"/>
+<g font-family="monospace" font-size="22" font-weight="bold" text-anchor="middle">
+<g fill="#f36d9b"><text x="0" y="0">{BUG}</text><text x="120" y="0">{404}</text><text x="240" y="0">{NaN}</text><text x="360" y="0">{BUG}</text><animateTransform attributeName="transform" type="translate" values="135 91;194 91;135 91" dur="4.8s" repeatCount="indefinite"/></g>
+<g fill="#efaa64"><text x="0" y="0">&lt;ERR&gt;</text><text x="125" y="0">&lt;BUG&gt;</text><text x="250" y="0">&lt;404&gt;</text><text x="375" y="0">&lt;ERR&gt;</text><animateTransform attributeName="transform" type="translate" values="97 144;151 144;97 144" dur="4.8s" repeatCount="indefinite"/></g>
+</g>
+<path d="M330 218l16-21h28l16 21v7h-60z" fill="#5ce2bd"/><path d="M350 195v-9h20v9" fill="#8af4d6"/>
+<rect x="356" y="160" width="8" height="22" rx="3" fill="#73aaff"><animate attributeName="y" values="194;52;194" dur="1.25s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" dur="1.25s" repeatCount="indefinite"/></rect>
+<g font-family="monospace" fill="#97a9c7" font-size="12"><text x="25" y="257">LIVES: ♥ ♥ ♥</text><text x="575" y="257">LEVEL 01</text></g>
+</svg>
